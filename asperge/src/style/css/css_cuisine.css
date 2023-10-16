@@ -1,0 +1,798 @@
+/* VARIABLES*/
+:root {
+    --Header_footerBackground: rgb(0, 0, 0);
+    --Dark: #424B54;
+    --DarkRed: rgb(117, 44, 44);
+    --lightRed: #B38D97;
+    --LightpinkTint: #D5ACA9;
+    --light: #EBCFB2;
+    --Lighter: #C5BAAF;
+    --green: #969547;
+}
+
+@font-face {
+    font-family: 'vintage';
+    src: url(../font/Wedding\ Vintage.otf);
+}
+
+/* FOR ALL PAGES */
+* {
+    margin: 0;
+    font-family: 'vintage';
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-image: url(../img/header/kitchen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+body>div {
+    display: inline-block;
+    width: 80vw;
+    height: 100vh;
+}
+
+header, footer {
+    background-color: var(--Header_footerBackground);
+    color: var(--Lighter);
+    text-align: center;
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+}
+
+header {
+    height: 120px;
+    display: grid;
+    grid-template-areas:
+        'title title'
+        'nav search';
+    grid-template-rows: auto 25px;
+    align-items: center;
+    padding: 1%;
+}
+
+header>nav {
+    justify-self: start;
+    grid-area: nav;
+    margin: 1%;
+    width: 90%;
+    font-size: 20px;
+}
+
+header>nav>a {
+    text-decoration: none;
+    color: var(--Lighter);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.nav-burger {
+    visibility: hidden;
+    padding: 8px;
+    margin: 10px;
+    width: 50px;
+}
+
+.nav-burger>div:first-of-type {
+    background-color: var(--DarkRed);
+    width: 40px;
+    height: 34px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.nav-burger>div:first-of-type div {
+    background-color: var(--LightpinkTint);
+    width: 40px;
+    height: 5px;
+    margin: 5px 0 5px 0;
+}
+
+.nav-burger-menu {
+    border: 2px solid black;
+    text-align: center;
+    background-color: var(--LightpinkTint);
+    padding: 5px;
+    position: absolute;
+    top: 150px;
+    left: 16px;
+    width: 100px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.nav-burger-menu a {
+    display: block;
+    text-decoration: none;
+    padding: 4% 0 4% 0;
+    color: black;
+}
+
+.nav-burger-menu a:hover {
+    background-color: var(--lightRed);
+}
+
+header>nav>a:hover {
+    background-color: var(--DarkRed);
+}
+
+header>div>img {
+    width: 60px;
+    height: auto;
+    vertical-align: top;
+}
+
+header>div {
+    vertical-align: middle;
+    grid-area: title;
+}
+
+header>div>h1 {
+    display: inline-block;
+    font-size: 48px;
+    text-shadow: 4px 4px var(--DarkRed);
+}
+
+header>input {
+    grid-area: search;
+    justify-self: end;
+    width: 50%;
+    background-image: url(../img/header/search.jpg);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: 95%;
+    background-color: var(--Lighter);
+    padding: 1%;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+label {
+    font-size: 20px;
+}
+
+/* INDEX */
+.index section {
+    color: var(--Lighter);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.index main {
+    overflow: hidden;
+    margin: auto;
+    width: 96%;
+    margin-top: 10px;
+    background-color: var(--Dark);
+    text-align: center;
+}
+
+.index .carousel {
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    animation: 20s slide infinite;
+}
+
+.index .carousel img {
+    width: 20%;
+    float: left;
+}
+
+.index #contenu {
+    clear: both;
+    width: 920px;
+    padding: 0 20px;
+}
+
+.index #contenu aside {
+    float: left;
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: var(--DarkRed);
+    border: 1px solid #212120;
+}
+
+.index #contenu aside div h1 {
+    color: var(--light);
+    font-size: 28px;
+    font-weight: 300px;
+    text-transform: capitalize;
+}
+
+.index #contenu aside div h1 span {
+    color: #fb911f;
+    font-size: 1.5em;
+    font-weight: 700px;
+}
+
+
+.index #contenu section {
+    float: right;
+    width: 670px;
+}
+
+
+.index aside div {
+    clear: both;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--Dark);
+    margin-bottom: 20px;
+}
+
+.index aside div h2 {
+    font-size: 30px;
+    color: var(--green);
+    padding: 0 0 5px 0;
+    margin: 0 0 10px 0;
+    border-bottom: 1px dotted var(--green);
+}
+
+.index aside div ul {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+
+}
+
+.index aside div ul li {
+    padding: 0 0 3px 10px;
+    list-style: none;
+    color: var(--light);
+
+}
+
+.index aside div ul li a {
+    font-weight: normal;
+    text-decoration: none;
+    color: var(--green);
+}
+
+.index aside div li a:hover, div li .current {
+    color: #fcf88e;
+}
+
+.index section .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.index .products {
+    position: relative;
+    flex: 1 1 17rem;
+    box-shadow: 0 4px 4px rgb(14, 55, 54 / 15%);
+    border-radius: 0.5rem;
+    height: auto;
+    padding: 2%;
+}
+
+.index .products div:first-of-type {
+    width: 100%;
+    height: 400px;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.index .products div:first-of-type img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.index .products div:first-of-type img:hover {
+    transform: scale(1.1);
+    transform: 0.5s;
+}
+
+.index .products div:last-of-type {
+    font-size: x-large;
+    font-weight: 900;
+    color: var(--light);
+    padding: 10px;
+}
+
+.index .products>a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+    background-color: var(--DarkRed);
+    color: var(--light);
+    padding: 8px;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+/* CATALOGUE */
+
+.catalogue {
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.catalogue .parallax-1 {
+    background-image: url(../img/Catalogue/parallax-1.jpg);
+}
+
+.catalogue .parallax-2 {
+    background-image: url(../img/Catalogue/parallax-2.jpg);
+}
+
+.catalogue .parallax-3 {
+    background-image: url(../img/Catalogue/parallax-3.jpg);
+}
+
+.catalogue .parallax-1,
+.catalogue .parallax-2,
+.catalogue .parallax-3 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: calc((50vh * 2)+4%);
+}
+
+.catalogue .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100vw;
+}
+
+.catalogue .wrapper>div {
+    border-radius: 10px;
+    background-color: var(--Dark);
+    color: var(--Lighter);
+    display: inline-block;
+    font-size: 150%;
+    width: 20vw;
+    height: 50vh;
+    margin: 1%;
+    padding: 1%;
+}
+
+.catalogue a>img {
+    width: auto;
+    height: 40%;
+}
+
+.bodyCatalogue {
+    overflow: hidden;
+    background-image: none;
+}
+
+.SwitchParallax>div {
+    width: calc(100vw - 5%);
+    font-size: 36px;
+    color: white;
+    background-color: var(--Dark);
+    padding: 1%;
+    margin: 1%;
+}
+
+.SwitchParallax {
+    background-color: var(--DarkRed);
+    padding: 1%;
+}
+
+/* PRODUIT */
+.produit .container {
+    height: 400px;
+    margin-top: 10px;
+    background-color: var(--Dark);
+}
+
+.produit main>h1 {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: var(--green);
+}
+
+.produit section div {
+    font-size: x-large;
+}
+
+.produit .menu section a img {
+    height: 400px;
+    width: 600px;
+    text-align: center;
+}
+
+.produit section p {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    max-height: 0em;
+    text-align: justify;
+    color: white;
+}
+
+.produit section {
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 10px;
+    background-color: var(--green);
+    transition: 0.5s;
+    color: var(--Dark);
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.produit section:target p {
+    max-height: 20em;
+    padding: 10px;
+}
+
+/* FORMULAIRE */
+
+.formulaire main {
+    background-color: var(--Dark);
+    padding: 2%;
+}
+
+.formulaire .wrapper-fieldset {
+    display: grid;
+    grid-template-areas:
+        'fieldset1 map'
+        'fieldset2 map';
+    grid-template-columns: 60% 40%;
+    width: 90%;
+    margin: 3% 0 3% 0;
+}
+
+.formulaire form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--Lighter);
+    padding: 1%;
+    border-radius: 10px;
+    margin: 1%;
+}
+
+.formulaire iframe {
+    border-radius: 10px;
+    grid-area: map;
+    width: 100%;
+    height: 100%;
+}
+
+.formulaire fieldset:first-of-type {
+    grid-area: fieldset1;
+}
+
+.formulaire fieldset:last-of-type {
+    grid-area: fieldset2;
+}
+
+.formulaire fieldset {
+    background-color: var(--DarkRed);
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 1%;
+    width: 80%;
+    display: grid;
+    justify-content: center;
+}
+
+.formulaire legend {
+    background-color: var(--Lighter);
+    border: 2px solid black;
+    padding: 1%;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.formulaire .abonnez {
+    background-image: url(../img/formulaire/abonnez-vous.jpg);
+    width: 98%;
+    height: 30vh;
+    background-position: 80%;
+    background-attachment: fixed;
+    align-items: center;
+    display: flex;
+}
+
+.formulaire .abonnez>div {
+    background-color: rgba(255, 0, 106, 0.473);
+    padding: 2%;
+    width: 100%;
+    font-size: 48px;
+}
+
+.abonnez>div>p {
+    background-color: rgba(255, 255, 255, 0.575);
+}
+
+.formulaire legend>div {
+    display: inline-block;
+}
+
+.formulaire fieldset:first-of-type {
+    grid-template-areas:
+        '. name . number .'
+        '. bday . color .'
+        '. sexe sexe sexe .';
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto auto auto;
+}
+
+.formulaire fieldset:last-of-type {
+    grid-template-areas:
+        'username email'
+        'password password';
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+}
+
+.formulaire fieldset:first-of-type legend~div:nth-of-type(1) {
+    grid-area: name;
+}
+
+.formulaire fieldset:first-of-type legend~div:nth-of-type(2) {
+    grid-area: number;
+}
+
+.formulaire fieldset:first-of-type legend~div:nth-of-type(3) {
+    grid-area: bday;
+}
+
+.formulaire fieldset:first-of-type legend~div:nth-of-type(4) {
+    grid-area: color;
+}
+
+.formulaire fieldset:first-of-type legend~div:nth-of-type(5) {
+    grid-area: sexe;
+}
+
+.formulaire fieldset:last-of-type legend~div:nth-of-type(1) {
+    grid-area: username;
+}
+
+.formulaire fieldset:last-of-type legend~div:nth-of-type(2) {
+    grid-area: email;
+}
+
+.formulaire fieldset:last-of-type legend~div:nth-of-type(3) {
+    grid-area: password;
+}
+
+.formulaire input {
+    width: 50%;
+}
+
+.formulaire legend~div {
+    margin: 1%;
+}
+
+.formulaire fieldset :invalid {
+    border: 2px solid red;
+}
+
+.formulaire fieldset:last-of-type :valid {
+    border: 2px solid rgb(0, 255, 0);
+}
+
+/* MEDIA QUERY */
+
+@media screen and (max-width: 1250px) and (min-width: 1000px) {
+    .catalogue .wrapper>div {
+        width: 25vw;
+    }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 600px) {
+    .catalogue .wrapper>div {
+        width: 40vw;
+    }
+
+    .index main .carousel {
+        margin: 10px;
+        z-index: -1;
+    }
+
+    .index .products div:last-of-type {
+        color: var(--Dark);
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .index main .carousel {
+        margin: 10px;
+        z-index: -1;
+    }
+
+    .index #contenu aside {
+        width: 45%;
+    }
+
+    .index .container {
+        width: 100%;
+        position: absolute;
+        left: 0;
+        right: 0;
+    }
+
+    .index .products div:last-of-type {
+        color: var(--Dark);
+        font-size: x-large;
+    }
+
+    .index footer {
+        position: absolute;
+        top: 3230px;
+        left: 0;
+        right: 0;
+    }
+
+    .formulaire .wrapper-fieldset {
+        grid-template-areas:
+            'fieldset1'
+            'fieldset2'
+            'map';
+        grid-template-columns: 90%;
+        justify-content: center;
+        justify-items: center;
+        width: 100%;
+    }
+
+    .catalogue .wrapper>div {
+        width: 80vw;
+    }
+
+    .produit .container {
+        width: 90%;
+        margin: 15px;
+    }
+
+    .produit .menu section a img {
+        margin: 10px;
+        width: 90%;
+    }
+
+    .produit section p {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 780px) {
+
+    .formulaire fieldset:first-of-type {
+        grid-template-areas:
+            ' name '
+            ' number '
+            ' bday '
+            ' color '
+            ' sexe ';
+    }
+
+    .formulaire fieldset:last-of-type {
+        grid-template-areas:
+            ' username '
+            ' email '
+            ' password '
+            ' password ';
+    }
+
+    .formulaire fieldset div {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+
+    .nav-burger {
+        visibility: visible;
+    }
+
+    .nav-menu, .nav-burger-menu {
+        visibility: hidden;
+    }
+
+    .nav-burger:hover>.nav-burger-menu {
+        visibility: visible;
+        cursor: grab;
+    }
+
+    .index main {
+        background-color: rgba(0, 0, 0, 0);
+    }
+
+    body {
+        background-image: none;
+        width: 100vw;
+    }
+
+    body>div {
+        width: 100vw;
+    }
+
+    header {
+        height: 140px;
+        grid-template-rows: auto 50px;
+    }
+
+    header>div>h1 {
+        font-size: 160%;
+        line-height: 200%;
+    }
+
+    header>div>img {
+        width: 10%;
+        height: auto;
+        vertical-align: middle;
+    }
+}
+
+/* ANIMATION */
+
+@keyframes LogoAnimation {
+    100% {
+        rotate: 360deg;
+    }
+}
+
+header>div:hover>img {
+    animation: LogoAnimation 1s ease-in-out 0s infinite normal none;
+}
+
+@keyframes slide {
+    0% {
+        left: 0;
+    }
+
+    20% {
+        left: 0;
+    }
+
+    25% {
+        left: -100%;
+    }
+
+    45% {
+        left: -100%;
+    }
+
+    50% {
+        left: -200%;
+    }
+
+    70% {
+        left: -200%;
+    }
+
+    75% {
+        left: -300%;
+    }
+
+    95% {
+        left: -300%;
+    }
+
+    100% {
+        left: -400%;
+    }
+}

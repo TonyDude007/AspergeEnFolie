@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les Asperge en Folie - Inscription</title>
+    <link rel="stylesheet" href="style/css/css_cuisine.css">
+    <link rel="icon" type="image/x-icon" href="style/img/header/icon.jpg">
+</head>
+
+<body>
+    <div class="formulaire">
+        <header>
+
+            <nav class="nav-burger">
+
+                <div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+
+                <div class="nav-burger-menu">
+                    <a href="index.html">Acceuil</a>
+                    <a href="catalogue.html">Menu</a>
+                    <a href="produit.html">Recettes</a>
+                    <a href="formulaire.html">Inscription</a>
+                </div>
+            </nav>
+
+            <nav class="nav-menu">
+                <a href="index.html">Acceuil</a>
+                <a href="catalogue.html">Menu</a>
+                <a href="produit.html">Recettes</a>
+                <a href="formulaire.html">Inscription</a>
+            </nav>
+
+            <div>
+                <img src="style/img/header/icon.jpg" alt="image de l'icon">
+                <h1> Les Asperge en Folie </h1>
+                <img src="style/img/header/icon.jpg" alt="image de l'icon">
+            </div>
+
+            <input type="search">
+        </header>
+        <main>
+            <form action="formulaire.html" method="post">
+
+                <div class="abonnez">
+                    <div>
+                        <p> Abonnez Vous </p>
+                    </div>
+                </div>
+                <div class="wrapper-fieldset">
+                    <fieldset>
+                        <Legend>Information</Legend>
+
+                        <div>
+                            <label for="name"> Name : </label>
+                            <input id="name" type="text" placeholder=" Name " autofocus>
+                        </div>
+                        <div>
+                            <label for="phone"> Number : </label>
+                            <input id="phone" type="tel" placeholder=" xxx-xxx-xxxx "
+                                pattern="^\(?\d{3}\)?(-| )?\d{3}(-| )?\d{4}$">
+                        </div>
+                        <div>
+                            <label for="bday"> Birthday : </label>
+                            <input id="bday" type="date" placeholder=" Birthday ">
+                        </div>
+                        <div>
+                            <label for="color"> Fav Color : </label>
+                            <input id="color" type="color" placeholder=" Fav Color">
+                        </div>
+
+                        <div>
+                            <div>
+                                <label for="sexe"><strong> Sexe : </strong></label>
+
+                                <select name="sexe" id="sexe">
+                                    <option value="select"> Chosir un sex </option>
+                                    <option value="men"> Hommes </option>
+                                    <option value="woman"> Femmes </option>
+                                    <option value="other"> Autre </option>
+                                </select>
+                            </div>
+                        </div>
+
+                    </fieldset>
+
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d11184.958932650527!2d-73.56415999999999!3d45.5052525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sca!4v1677169024647!5m2!1sfr!2sca"
+                        width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+
+                    <fieldset>
+
+                        <legend>Securise</legend>
+
+                        <div>
+                            <label for="username"> Username : </label>
+                            <input id="username" type="text" required placeholder=" Username ">
+                        </div>
+
+                        <div>
+                            <label for="email"> Email : </label>
+                            <input id="email" type="email" required placeholder=" Email ">
+                        </div>
+
+                        <div>
+                            <label for="password"> Password : </label>
+                            <input id="password" type="password" required placeholder=" Password ">
+                        </div>
+
+                    </fieldset>
+                </div>
+                <div>
+                    <label for="checkbox"> Agree to our <a href="">Terms</a> : </label>
+                    <input id="checkbox" type="checkbox" required>
+                </div>
+                <input type="submit" value="submit">
+            </form>
+        </main>
+        <footer>
+            <div> &copy; / Antoine Ouellet | Saliou Thiogane \ &copy;</div>
+        </footer>
+    </div>
+</body>
+
+</html>

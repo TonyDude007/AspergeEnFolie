@@ -1,0 +1,531 @@
+<mxfile host="65bd71144e">
+    <diagram id="dTUR70Hl5oVKdCQDIlZX" name="Page-1">
+        <mxGraphModel dx="1370" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="194" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="30" y="1235" width="280" height="415" as="geometry"/>
+                </mxCell>
+                <mxCell id="195" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="194">
+                    <mxGeometry width="280" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="197" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="194">
+                    <mxGeometry x="10" y="10" width="260" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="198" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="194">
+                    <mxGeometry x="10" y="365" width="260" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="375" value="" style="group" vertex="1" connectable="0" parent="194">
+                    <mxGeometry x="10" y="35" width="260" height="325" as="geometry"/>
+                </mxCell>
+                <mxCell id="374" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry y="130" width="260" height="195" as="geometry"/>
+                </mxCell>
+                <mxCell id="313" value="video de cuisine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry width="260" height="85" as="geometry"/>
+                </mxCell>
+                <mxCell id="314" value="Titre de labonnement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry y="90" width="260" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="315" value="prix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry y="135" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="318" value="A Propos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry x="140" y="135" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="320" value="Notre but" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry y="180" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="321" value="prix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry x="140" y="180" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="322" value="IMG Qui sera recouvert par linformation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="375">
+                    <mxGeometry y="220" width="260" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="109" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="590" width="280" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Index" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="-60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Catalogue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="535" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Description Produit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1090" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Formulaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="1670" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="1000px" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="600px" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="95" width="200" height="295" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="104.82142857142857" width="180" height="19.642857142857142" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="Carrousel de repas (defile image ecrit repas principal entree dessert....)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="134.28571428571428" width="180" height="58.92857142857142" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="ASIDE (REPAS DU JOUR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="203.03571428571428" width="70" height="157.14285714285714" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="Prensetation du chef" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="203.03571428571428" width="100" height="157.14285714285714" as="geometry"/>
+                </mxCell>
+                <mxCell id="183" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="365" width="180" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="100" width="120" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="Carrousel de repas (defile image ecrit repas principal entree dessert....)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="740" y="147.5" width="140" height="62.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Burger to left and search to the right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="110" width="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="110" width="100" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=none;html=1;" edge="1" parent="1" source="74" target="75">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="130" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="73" target="77">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="ASIDE (REPAS DU JOUR)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="170" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="Prensetation du chef" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="210" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="185" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="251.61" width="100" height="18.39" as="geometry"/>
+                </mxCell>
+                <mxCell id="187" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="50" y="70" width="280" height="445" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="187">
+                    <mxGeometry width="280" height="445" as="geometry"/>
+                </mxCell>
+                <mxCell id="186" value="" style="group" vertex="1" connectable="0" parent="187">
+                    <mxGeometry x="10" y="5.0049999999999955" width="260" height="424.375" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="Carrousel de repas (defile image ecrit repas principal entree dessert....)" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="186">
+                    <mxGeometry y="31.875" width="260" height="116.875" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="186">
+                    <mxGeometry width="260" height="21.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="ASIDE (REPAS DU JOUR)" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="186">
+                    <mxGeometry y="159.375" width="80" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Prensetation du chef" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="186">
+                    <mxGeometry x="90" y="159.375" width="170" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="181" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="186">
+                    <mxGeometry y="399.375" width="260" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="216" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="30" y="1795" width="280" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="217" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="216">
+                    <mxGeometry width="280" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="218" value="img ecrit abonne vous" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="216">
+                    <mxGeometry x="10" y="40" width="260" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="219" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="216">
+                    <mxGeometry x="10" y="10" width="260" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="220" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="216">
+                    <mxGeometry x="10" y="365" width="260" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="324" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="216">
+                    <mxGeometry x="170" y="340" width="100" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="334" value="Checkbox" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="216">
+                    <mxGeometry x="10" y="335" width="85" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="358" value="" style="group" vertex="1" connectable="0" parent="216">
+                    <mxGeometry x="10" y="155" width="260" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="342" value="" style="group" vertex="1" connectable="0" parent="358">
+                    <mxGeometry width="120" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="327" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="342">
+                    <mxGeometry width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="328" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="342">
+                    <mxGeometry y="30" width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="331" value="Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="342">
+                    <mxGeometry y="60" width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="332" value="Adress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="342">
+                    <mxGeometry y="90" width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="333" value="Date Birth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="342">
+                    <mxGeometry y="120" width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="340" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="342">
+                    <mxGeometry y="150" width="120" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="350" value="" style="group" vertex="1" connectable="0" parent="358">
+                    <mxGeometry x="130" width="130" height="175" as="geometry"/>
+                </mxCell>
+                <mxCell id="335" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="350">
+                    <mxGeometry width="130" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="336" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="350">
+                    <mxGeometry y="30" width="130" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="337" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="350">
+                    <mxGeometry y="60" width="130" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="338" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="350">
+                    <mxGeometry y="90" width="130" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="339" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="350">
+                    <mxGeometry y="120" width="130" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="341" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="350">
+                    <mxGeometry y="150" width="130" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="221" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="350" y="1795" width="270" height="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="222" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="221">
+                    <mxGeometry width="200" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="223" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="221">
+                    <mxGeometry x="10" y="10" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="225" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="221">
+                    <mxGeometry x="10" y="245" width="180" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="323" value="img ecrit abonne vous" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="221">
+                    <mxGeometry x="10" y="45" width="180" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="325" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="221">
+                    <mxGeometry x="90" y="225" width="100" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="343" value="" style="group" vertex="1" connectable="0" parent="221">
+                    <mxGeometry x="10" y="115" width="90" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="344" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="343">
+                    <mxGeometry width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="345" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="343">
+                    <mxGeometry y="18" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="346" value="Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="343">
+                    <mxGeometry y="36" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="347" value="Adress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="343">
+                    <mxGeometry y="54" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="348" value="Date Birth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="343">
+                    <mxGeometry y="72" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="349" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="343">
+                    <mxGeometry y="90" width="90" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="351" value="" style="group" vertex="1" connectable="0" parent="221">
+                    <mxGeometry x="110" y="115" width="80" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="352" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="351">
+                    <mxGeometry width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="353" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="351">
+                    <mxGeometry y="18" width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="354" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="351">
+                    <mxGeometry y="36" width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="355" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="351">
+                    <mxGeometry y="54" width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="356" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="351">
+                    <mxGeometry y="72" width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="357" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="351">
+                    <mxGeometry y="90" width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="226" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="580" y="1800" width="280" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="227" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry width="120" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="228" value="img ecrit abonne vous" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry x="140" y="47.5" width="140" height="62.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="229" value="Burger to left and search to the right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry x="150" y="10" width="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="230" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry x="10" y="10" width="100" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="231" style="edgeStyle=none;html=1;" edge="1" parent="226" source="229" target="230">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="232" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry x="10" y="30" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="233" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="226" source="228" target="232">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="234" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry x="10" y="160" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="326" value="Submit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="226">
+                    <mxGeometry x="10" y="140" width="100" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="359" value="" style="group" vertex="1" connectable="0" parent="226">
+                    <mxGeometry x="10" y="70" width="100" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="360" value="" style="group" vertex="1" connectable="0" parent="359">
+                    <mxGeometry width="46.15384615384615" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="361" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="360">
+                    <mxGeometry width="46.15384615384615" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="362" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="360">
+                    <mxGeometry y="12" width="46.15384615384615" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="363" value="Number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="360">
+                    <mxGeometry y="24" width="46.15384615384615" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="364" value="Adress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="360">
+                    <mxGeometry y="36" width="46.15384615384615" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="365" value="Date Birth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="360">
+                    <mxGeometry y="48" width="46.15384615384615" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="366" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="360">
+                    <mxGeometry y="60" width="46.15384615384615" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="367" value="" style="group" vertex="1" connectable="0" parent="359">
+                    <mxGeometry x="50" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="368" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="367">
+                    <mxGeometry width="50" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="369" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="367">
+                    <mxGeometry y="12" width="50" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="370" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="367">
+                    <mxGeometry y="24" width="50" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="371" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="367">
+                    <mxGeometry y="36" width="50" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="372" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="367">
+                    <mxGeometry y="48" width="50" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="373" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="367">
+                    <mxGeometry y="60" width="50" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="235" value="1000px" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="236" value="600px" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="1720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="199" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="350" y="1235" width="270" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="200" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="199">
+                    <mxGeometry width="200" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="201" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="199">
+                    <mxGeometry x="10" y="10" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="203" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="199">
+                    <mxGeometry x="10" y="245" width="180" height="25" as="geometry"/>
+                </mxCell>
+                <mxCell id="376" value="" style="group" vertex="1" connectable="0" parent="199">
+                    <mxGeometry x="10" y="35" width="180" height="205" as="geometry"/>
+                </mxCell>
+                <mxCell id="377" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry y="82" width="180" height="123" as="geometry"/>
+                </mxCell>
+                <mxCell id="378" value="video de cuisine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry width="180" height="53.61538461538461" as="geometry"/>
+                </mxCell>
+                <mxCell id="379" value="Titre de labonnement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry y="56.76923076923077" width="180" height="22.076923076923077" as="geometry"/>
+                </mxCell>
+                <mxCell id="380" value="prix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry y="85.15384615384615" width="83.07692307692308" height="18.923076923076923" as="geometry"/>
+                </mxCell>
+                <mxCell id="381" value="A Propos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry x="96.92307692307692" y="85.15384615384615" width="83.07692307692308" height="18.923076923076923" as="geometry"/>
+                </mxCell>
+                <mxCell id="382" value="Notre but" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry y="113.53846153846153" width="83.07692307692308" height="18.923076923076923" as="geometry"/>
+                </mxCell>
+                <mxCell id="383" value="prix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry x="96.92307692307692" y="113.53846153846153" width="83.07692307692308" height="18.923076923076923" as="geometry"/>
+                </mxCell>
+                <mxCell id="384" value="IMG Qui sera recouvert par linformation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="376">
+                    <mxGeometry y="138.76923076923077" width="180" height="66.23076923076923" as="geometry"/>
+                </mxCell>
+                <mxCell id="213" value="1000px" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="214" value="600px" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="1160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="250" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="249">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="290" y="882.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="310" y="950"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="249" value="SCROLL BAR VERTICAL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="960" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="259" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="870.0025" width="260" height="122.1875" as="geometry"/>
+                </mxCell>
+                <mxCell id="111" value="NAV AVEC BARRE search a droite" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="600.625" width="260" height="21.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="189" value="Copyright / Names | Names \ Copyright" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="997.81" width="260" height="22.19" as="geometry"/>
+                </mxCell>
+                <mxCell id="257" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="627.1875" width="260" height="122.1875" as="geometry"/>
+                </mxCell>
+                <mxCell id="258" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="749.375" width="260" height="122.1875" as="geometry"/>
+                </mxCell>
+                <mxCell id="260" value="Parralax 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="627.19" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="263" value="Parralax 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="749.38" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="264" value="Parralax 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="871.56" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="267" value="TOUTE LES PAGE PAREILLE&amp;nbsp;&lt;br&gt;&lt;br&gt;DEVRAI SE REDIMENSIONNER...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="610" width="190" height="129.99" as="geometry"/>
+                </mxCell>
+                <mxCell id="268" value="Entree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="630" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="269" value="repas principale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="754.38" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="270" value="Dessert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="880" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="271" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="910" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="272" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="910" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="273" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="910" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="274" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="910" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="275" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="790" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="276" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="790" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="277" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="790" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="278" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="790" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="279" value="produit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="669.99" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="280" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="669.99" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="281" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="669.99" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="282" value="produits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="669.99" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="283" value="Toute les img sont des liens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="754.38" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="284" value="Devrai tous avoir&amp;nbsp; : Nom Court Description&lt;br&gt;une img" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="820" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="205" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="580" y="1240" width="120" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="207" value="Burger to left and search to the right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="730" y="1250" width="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="208" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="1250" width="100" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="209" style="edgeStyle=none;html=1;" edge="1" parent="1" source="207" target="208">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="211" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="720" y="1292.5" as="sourcePoint"/>
+                        <mxPoint x="700" y="1285" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="212" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="1400" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="385" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="590" y="1270" width="100" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="386" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry y="48" width="100" height="72" as="geometry"/>
+                </mxCell>
+                <mxCell id="387" value="video de cuisine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry width="100" height="31.384615384615387" as="geometry"/>
+                </mxCell>
+                <mxCell id="388" value="Titre de labonnement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry y="33.23076923076923" width="100" height="12.923076923076923" as="geometry"/>
+                </mxCell>
+                <mxCell id="389" value="prix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry y="49.84615384615385" width="46.15384615384615" height="11.076923076923077" as="geometry"/>
+                </mxCell>
+                <mxCell id="390" value="A Propos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry x="53.84615384615385" y="49.84615384615385" width="46.15384615384615" height="11.076923076923077" as="geometry"/>
+                </mxCell>
+                <mxCell id="391" value="Notre but" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry y="66.46153846153847" width="46.15384615384615" height="11.076923076923077" as="geometry"/>
+                </mxCell>
+                <mxCell id="392" value="prix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry x="53.84615384615385" y="66.46153846153847" width="46.15384615384615" height="11.076923076923077" as="geometry"/>
+                </mxCell>
+                <mxCell id="393" value="IMG Qui sera recouvert par linformation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="385">
+                    <mxGeometry y="81.23076923076924" width="100" height="38.769230769230774" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
